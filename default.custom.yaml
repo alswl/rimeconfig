@@ -1,0 +1,17 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.30
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Mon Nov 17 15:43:41 2014"
+  rime_version: 1.1.2
+patch:
+# 启用的输入方案
+  schema_list:
+  # 朙月拼音
+    - {schema: luna_pinyin}
+  # 朙月拼音 语句流
+    - {schema: luna_pinyin_fluency}
+  # 朙月拼音 简化字
+    - {schema: luna_pinyin_simp}
+# 每页候选词数
+  "menu/page_size": 6

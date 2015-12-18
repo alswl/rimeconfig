@@ -1,0 +1,270 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Luna Pinyin Extended Dictionary(Chinese&English) - 明月拼音擴充詞庫（含西文的詞彙）
+#
+#   瑾昀 <cokunhui@gmail.com>
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.cn_en
+version: "2014.09.07"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+AA制	a a zhi	100
+ATM機	a t m ji	100
+A片	a pian	100
+A盤	a pan	100
+A股	a gu	100
+B淋巴細胞	b lin ba xi bao	100
+B盤	b pan	100
+B細胞	b xi bao	100
+B股	b gu	100
+B超	b chao	100
+C盤	c pan	100
+C語言	c yu yan	100
+DNA	d n a	100
+DVD	d v d	100
+D盤	d pan	100
+E盤	e pan	100
+F盤	f pan	100
+Google	google	100
+G盤	g pan	100
+G點	g dian	100
+H盤	h pan	100
+H股	h gu	100
+IP位址	i p wei zhi	100
+IP卡	i p ka	100
+IP地址	i p di zhi	100
+IP電話	i p dian hua	100
+I盤	i pan	100
+J盤	j pan	100
+K歌	k ge	100
+K歌	kei ge	100
+K粉	k fen	100
+K粉	kei fen	100
+K金	k jin	100
+K金	kei jin	100
+POS機	p o s ji	100
+QQ	q q	100
+QQ會員	q q hui yuan	100
+QQ羣	q q qun	100
+QQ號	q q hao	100
+QQ號碼	q q hao ma	100
+Q幣	q bi	100
+Rime	rime	100
+Rime	zhong zhou yun	100
+SIM卡	s i m ka	100
+T型臺	t xing tai	100
+T恤	t xu	100
+T恤衫	t xu shan	100
+T恤衫	t xu shan	100
+T淋巴細胞	t lin ba xi bao	100
+T細胞	t xi bao	100
+USB	u s b	100
+U形管	u xing guan	100
+U盤	u pan	100
+U盾	u dun	100
+WiFi	wai fai	100
+WiFi	wi fi	100
+X光	x guang	100
+X光	x guang	100
+X刀	x dao	100
+X射綫	x she xian	100
+X射線	x she xian	100
+X染色體	x ran se ti	100
+Y染色體	y ran se ti	100
+α射線	a er fa she xian	100
+α粒子	a er fa li zi	100
+β射線	bei ta she xian	100
+β粒子	bei ta li zi	100
+γ刀	ga ma dao	100
+γ射線	ga ma she xian	100
+三K黨	san k dang	100
+三K黨	san kei dang	100
+卡拉OK	ka la o k	100
+哆啦A夢	duo la a meng	100
+智能ABC	zhi neng a b c	100
+阿Q	a q	100
+阿Q正傳	a q zheng zhuan	100
+Windows	windows	100
+
+# Linux 及其發行版
+Linux	linux	100
+Fedora	fedora	100
+OpenSuse	opensuse	100
+ArchLinux	archlinux	100
+Android	android	100
+Debian	debian	100
+Ubuntu	ubuntu	100
+Linux Mint	linux mint	100
+Red Hat redhat	100
+Red Hat Enterprise Linux	rhel	100
+CentOS	centos	100
+Scientific Linux	scintific linux	100
+Mandriva Linux	mandriva linux	100
+PCLinux	pclinux	100
+PCLinuxOS	pclinuxos	100
+Gentoo Linux	gentoo linux	100
+Gentoo	gentoo	100
+Slackware	slackware	100
+MeeGo	meego	100
+Deepin Linux
+# 常見電子產品名稱
+PNY	pny	100
+Transcend	chuangjian	100
+Transcend	transcend	100
+TOSHIBA	dongzhi	100
+TOSHIBA	toshiba	100
+Fujitsu	fushitong	100
+Fujitsu	fujitsu	100
+Gloway	guangwei	100
+Gloway	gloway	100
+Corsair	haidaochuan	100
+Corsair	corsair	100
+MIRAGES	huanyin	100
+MIRAGES	mirages	100
+OCZ	ocz	100
+Kingshare	jingsheng	100
+Kingston	kingston	100
+Tigo	jintaike	100
+Tigo	tigo	100
+Netac	langke	100
+Netac	netac	100
+Maxell	maxell	100
+PLEXTOR	kepute	100
+PLEXTOR	plextor	100
+SAMSUNG	sanxing	100
+SAMSUNG	samsung	100
+SanDisk	shandi	100
+SanDisk	sandisk	100
+Panasonic	songxia	100
+Panasonic	panasonic	100
+ADATA	weigang	100
+ADATA	adata	100
+Seagate	xijie	100
+Seagate	seagate	100
+Intel	yingteer	100
+Intel	intel	100
+Galaxy	yingchi	100
+Galaxy	galaxy	100
+Crucial	yingruida	100
+Crucial	crucial	100
+ShineDisk	yunchu	100
+ShineDisk	shinedisk	100
+Apacer	yuzhan	100
+Apacer	apacer	100
+EAGET	yijie	100
+EAGET	eaget	100
+G.SKILL	zhiqi	100
+G.SKILL	gskill	100
+Apple	apple	100
+Lenovo	lianxiang	100
+Lenovo	lenovo	100
+DELL	dell	100
+ThinkPad	thinkpad	100
+ASUS	huashuo	100
+ASUS	ASUS	100
+HP	hp	100
+MSI	msi	100
+Alienware	waixingren	100
+Alienware	alienware	100
+MECHREVO	mechrevo	100
+MatriMax	matrimax	100
+SAHARA	sahala	100
+SAHARA	ashara	100
+HASEE	shenzhou	100
+HASEE	hasee	100
+NOKIA	nokia	100
+SONY	sony	100
+Coolpad	kupai	100
+Coolpad	coolpad	100
+OPPO	oppo	100
+HTC	htc	100
+PHILIPS	feilipu	100
+PHILIPS	philips	100
+IUNI	iuni	100
+LG	lg	100
+TCL	tcl	100
+ZTE	zte	100
+K-Touch	tianyu	100
+Hisense	haixin	100
+Hisense	hisense	100
+Smartisan	chuizi	100
+# 蘋果家族軟件及硬件
+MacOS	macos	100
+Macintosh	maijinta	100
+Macintosh	macintosh	100
+iWork	iwork	100
+iPod	ipod	100
+iMac	imac	100
+MacBook	macbook	100
+iPhone	iphone	100
+iOS	ios	100
+iPad	i pad	100
+iTunes	itunes	100
+酷我K歌	kuwokge	100
+Foobar2000	foobar	100
+我叫MT	wojiaomt	100
+iReader	ireader	100
+Picasa	picasa	100
+Avast！	avast	100
+Avira	avira	100
+Avira	xiaohongsan	100
+AVG	avg	100
+BitDefender	bitdefender	100
+WinRAR	winrar	100
+AutoCAD	autocad	100
+CAD	cad	100
+PhotoShop	photoshop	100
+
+# 常用軟件
+QQ瀏覽器	qqliulanqi	100
+QQ音樂	qqyinyue	100
+UC瀏覽器	ucliulanqi	100
+PP助手	ppzhushou	100
+愛奇藝PPS影音	aiqiyippsyingyin
+WPS	wps	100
+QT語音	qtyuyin	100
+QQ旋風	qqxuanfeng	100
+QQ飛車	qqfeiche	100
+Opera	opera	100
+QQ遊戲	qqyouxi	100
+Foxmail	foxmail	100
+Skype	skype	100
+EverNote	evernote	100
+Code::Blocks	codeblocks	100
+YY語音	yyyuyin	100
+KMPlayer	kmplayer	100
+VLC	vlc	100
+PotPlayer	potplayer	100
+
+# 一些出名的IT公司
+Google	google	100
+Google	guge	100
+Qualcomm	gaotong	100
+Qualcomm	qualcomm	100
+Microsoft	microsoft	100
+Microsoft	weiruan	100
+
+
+
+
+
+
+
+
+
+
+
+
+
