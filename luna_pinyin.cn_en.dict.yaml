@@ -119,6 +119,7 @@ Gentoo	gentoo	100
 Slackware	slackware	100
 MeeGo	meego	100
 Deepin Linux
+
 # 常見電子產品名稱
 PNY	pny	100
 Transcend	chuangjian	100
@@ -200,8 +201,10 @@ K-Touch	tianyu	100
 Hisense	haixin	100
 Hisense	hisense	100
 Smartisan	chuizi	100
+
 # 蘋果家族軟件及硬件
 MacOS	macos	100
+OSⅩ	osx	100
 Macintosh	maijinta	100
 Macintosh	macintosh	100
 iWork	iwork	100
@@ -212,20 +215,7 @@ iPhone	iphone	100
 iOS	ios	100
 iPad	i pad	100
 iTunes	itunes	100
-酷我K歌	kuwokge	100
-Foobar2000	foobar	100
-我叫MT	wojiaomt	100
 iReader	ireader	100
-Picasa	picasa	100
-Avast！	avast	100
-Avira	avira	100
-Avira	xiaohongsan	100
-AVG	avg	100
-BitDefender	bitdefender	100
-WinRAR	winrar	100
-AutoCAD	autocad	100
-CAD	cad	100
-PhotoShop	photoshop	100
 
 # 常用軟件
 QQ瀏覽器	qqliulanqi	100
@@ -247,6 +237,19 @@ YY語音	yyyuyin	100
 KMPlayer	kmplayer	100
 VLC	vlc	100
 PotPlayer	potplayer	100
+Picasa	picasa	100
+Avast！	avast	100
+Avira	avira	100
+Avira	xiaohongsan	100
+AVG	avg	100
+BitDefender	bitdefender	100
+WinRAR	winrar	100
+AutoCAD	autocad	100
+CAD	cad	100
+PhotoShop	photoshop	100
+酷我K歌	kuwokge	100
+Foobar2000	foobar	100
+我叫MT	wojiaomt	100
 
 # 一些出名的IT公司
 Google	google	100
@@ -256,15 +259,6 @@ Qualcomm	qualcomm	100
 Microsoft	microsoft	100
 Microsoft	weiruan	100
 
-
-
-
-
-
-
-
-
-
-
-
-
+# latex 专有词库
+LaTeX	latex	100
+CTeX	ctex	100

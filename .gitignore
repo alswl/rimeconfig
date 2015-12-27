@@ -3,3 +3,4 @@ trash/
 
 *.bin
 *.kct
+.directory

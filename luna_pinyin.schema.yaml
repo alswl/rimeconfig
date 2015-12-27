@@ -5,7 +5,7 @@ custom_phrase:
   enable_sentence: false
   initial_quality: 1
   user_dict: custom_phrase
-customization: 1221509597
+customization: 3357150537
 engine:
   filters:
     - simplifier
@@ -72,7 +72,7 @@ schema:
     
   name: "朙月拼音"
   schema_id: luna_pinyin
-  version: 0.23.custom.1221509597
+  version: 0.23.custom.3357150537
 speller:
   algebra:
     - "xform/^([b-df-np-z])$/$1_/"

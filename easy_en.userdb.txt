@@ -1,9 +1,0 @@
-# Rime user dictionary
-#@/db_name	easy_en.userdb
-#@/db_type	userdb
-#@/rime_version	1.2.9
-#@/tick	7
-#@/user_id	ff85f8fa-9b37-4781-86d8-a82aef9341bf
-de 	de	c=1 d=1 t=7
-en 	en	c=1 d=1 t=7
-false 	false	c=1 d=0.985112 t=7
